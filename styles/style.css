@@ -23,3 +23,14 @@
 .img_legal_prac{
     width: 25%;
 }
+.carousel_img{
+    width: 10%;
+}
+.gradient{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(17, 17, 17, 0.364),rgba(0, 0, 0, 0.523))
+}

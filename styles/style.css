@@ -61,4 +61,7 @@ ul>li{
     .flex-col{
         flex-direction: column;
     }
+    .send{
+        max-width:25 ;
+    }
 }

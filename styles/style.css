@@ -1,7 +1,25 @@
 .icon{
     width: 2rem;
 }
+
 .nav_brand{
     color: #414040;
     font-weight: 800;
+}
+.banner{
+    background-image: url('../images/banner.png'),linear-gradient(-180deg, #111111 0%, rgba(17, 17, 17, 0) 100%);
+    background-blend-mode:overlay;
+    background-position-x: center;
+    background-position-y: center;
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.large{
+    font-size: 4rem;
+}
+.img_legal_prac{
+    width: 25%;
 }
